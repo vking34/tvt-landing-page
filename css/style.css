@@ -384,7 +384,18 @@ h1, h2, h3, h4, h5,
 }
 
 .sub-title {
-  margin: 16px 0 4px 0;
+  margin: 10px 0 0 0;
+}
+
+.product-image {
+  margin-bottom: 16px;
+  max-height: 239px;
+  max-width: 300px;
+}
+
+.btn-text {
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
 }
 
 @media (max-width: 991.98px) {
