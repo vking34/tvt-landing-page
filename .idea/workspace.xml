@@ -20,6 +20,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -35,6 +42,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -55,7 +63,7 @@
       <workItem from="1587032653540" duration="1655000" />
       <workItem from="1587047147983" duration="3444000" />
       <workItem from="1587082374483" duration="14242000" />
-      <workItem from="1587106889927" duration="9789000" />
+      <workItem from="1587106889927" duration="18711000" />
     </task>
     <servers />
   </component>
@@ -79,9 +87,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="58" y="86" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587051348500" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1587116434435">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1587118102844">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587116434435" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587118102844" />
   </component>
 </project>
