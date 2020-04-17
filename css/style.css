@@ -383,6 +383,10 @@ h1, h2, h3, h4, h5,
   font-size: 38px;
 }
 
+.sub-title {
+  margin: 16px 0 4px 0;
+}
+
 @media (max-width: 991.98px) {
   .img-md-fluid {
     max-width: 100%; }
