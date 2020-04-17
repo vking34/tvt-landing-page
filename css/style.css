@@ -63,15 +63,7 @@
   font-size: 30px; }
 
 .gradient-2, .site-footer, .top-bar {
-  background: #7a5e86;
-  background: -moz-linear-gradient(left, #7a5e86 0%, #a75e67 51%, #f77b2e 100%);
-  background: -webkit-gradient(left top, right top, color-stop(0%, #7a5e86), color-stop(51%, #a75e67), color-stop(100%, #f77b2e));
-  background: -webkit-linear-gradient(left, #7a5e86 0%, #a75e67 51%, #f77b2e 100%);
-  background: -o-linear-gradient(left, #7a5e86 0%, #a75e67 51%, #f77b2e 100%);
-  background: -ms-linear-gradient(left, #7a5e86 0%, #a75e67 51%, #f77b2e 100%);
-  background: -webkit-gradient(linear, left top, right top, from(#7a5e86), color-stop(51%, #a75e67), to(#f77b2e));
-  background: linear-gradient(to right, #7a5e86 0%, #a75e67 51%, #f77b2e 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7a5e86', endColorstr='#f77b2e', GradientType=1 ); }
+}
 
 .font-gray-1 {
   color: #f7f7f7; }
@@ -396,6 +388,45 @@ h1, h2, h3, h4, h5,
 .btn-text {
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
+}
+
+/*about section*/
+
+.logo-about {
+  max-width: 100%;
+}
+
+.text-about {
+  padding: 0 3rem 0 3rem;
+}
+
+.about-description {
+  color: rgba(233, 233, 233, 0.87);
+}
+/*@media (min-width: 400px) and (max-width: 991.98px){*/
+/*  .about-description {*/
+/*    text-align:center!important*/
+/*  }*/
+/*}*/
+
+@media (min-width: 991.98px) {
+  .logo-about {
+    /*margin-top: 20px;*/
+    margin-bottom: 40px;
+  }
+}
+
+
+/*more section*/
+
+.more-text {
+  font-size: 60px;
+
+}
+
+
+.oswald-font {
+  font-family: "Oswald", sans-serif;
 }
 
 @media (max-width: 991.98px) {
@@ -958,7 +989,7 @@ h1, h2, h3, h4, h5,
     letter-spacing: .05em; }
 
 .block-team-member-1 {
-  padding: 30px;
+  padding: 30px 25px;
   border: 1px solid #e9ecef;
   background: #fff;
   position: relative;
